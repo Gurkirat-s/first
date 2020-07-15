@@ -6,3 +6,4 @@ name = input()
 
 print('Hello ' + name)
 
+print('How old are you?')
